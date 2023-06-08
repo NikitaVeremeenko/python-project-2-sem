@@ -6,9 +6,9 @@ To-Do List - это приложение, предназначенное для 
 ## Установка
 
 1. Склонируйте репозиторий с помощью следующей команды:
-'''bash
+```bash
 git clone https://github.com/NikitaVeremeenko/python-project-2-sem
-'''
+```
 2. Перейдите в каталог проекта:
 
   cd todo-list
