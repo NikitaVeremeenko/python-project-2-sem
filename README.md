@@ -6,23 +6,23 @@ To-Do List - это приложение, предназначенное для 
 ## Установка
 
 1. Склонируйте репозиторий с помощью следующей команды:
-git clone https://github.com/NikitaVeremeenko/python-project-2-sem
+  git clone https://github.com/NikitaVeremeenko/python-project-2-sem
 
 2. Перейдите в каталог проекта:
-cd todo-list
+  cd todo-list
 
 3. Установите зависимости, используя `pip`:
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 ## Запуск
 
 Откройте папку в терминале 
 
 Запустите сервер, открыв папку в терминале и введя:
-python main.py
+  python main.py
 
 Запустите приложение, открыв папку в терминале и введя:
-python prog.py
+  python prog.py
 
 
 ## Использование
